@@ -22,4 +22,4 @@ My first SwiftUI project.
 
 ## Screenshot
 
-![IOSCounter](Screenshots/app.png)
+![Screenshot](Screenshots/app.png)
