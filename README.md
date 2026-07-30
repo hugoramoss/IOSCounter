@@ -19,3 +19,7 @@ My first SwiftUI project.
 - Reset counter
 - Prevent negative values
 - Display messages at specific values
+
+## Screenshot
+
+![IOSCounter](Screenshots/app.png)
