@@ -16,7 +16,7 @@ struct ContentView: View {
         
         
         VStack{
-            Text("Count up")
+            Text("Counter")
             Text("\(count)").font(.system(size: 30, weight: .bold))
             if count == 10
             {
